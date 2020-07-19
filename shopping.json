@@ -1,0 +1,32 @@
+[
+    { 
+    "id": 1, 
+    "name":"Domates"
+    "isCompleted":"false"
+    "isArchived": "false" 
+    },
+     { 
+    "id": 2, 
+    "name":"Patates"
+    "isCompleted":"false"
+    "isArchived": "false" 
+    },
+     { 
+    "id": 3, 
+    "name":"Soğan"
+    "isCompleted":"false"
+    "isArchived": "false" 
+    },
+     { 
+    "id": 4, 
+    "name":"Maydanos"
+    "isCompleted":"false"
+    "isArchived": "false" 
+    },
+     { 
+    "id": 5, 
+    "name":"Roka"
+    "isCompleted":"false"
+    "isArchived": "false" 
+    },
+  ]
