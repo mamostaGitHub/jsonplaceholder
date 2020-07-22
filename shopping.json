@@ -1,4 +1,4 @@
-{ 
+    { 
     "id": 1, 
     "name":"Domates",
     "isCompleted":"false",
@@ -27,5 +27,5 @@
     "name":"Roka",
     "isCompleted":"false",
     "isArchived": "false" 
-}
+    }
 
